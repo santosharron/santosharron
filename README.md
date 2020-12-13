@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Santosh Arron
 #### I am Full Stack Web & App Developer
-![I am Full Stack Web & App Developer](https://wallpaperaccess.com/full/345330.jpg)
+![I am Full Stack Web & App Developer]
+![CEO OF EPIC PROGRAMMER](https://wallpaperaccess.com/full/345330.jpg)
 
 
 Skills: FLUTTER (DART) / REACT / JS / HTML / CSS / BLENDER 
