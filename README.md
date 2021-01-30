@@ -2,8 +2,16 @@
 #### I am Full Stack Web & App Developer
 #### CEO OF EPIC PROGRAMMER
 ![I am Full Stack Web & App Developer]
-p{
-(https://i.imgur.com/98pC7Th.png)}
+
+<p align="center">
+  <a href="https://nodejs.org/">
+    <img
+      alt="Node.js"
+      src="https://i.imgur.com/98pC7Th.png"
+      width="400"
+    />
+  </a>
+</p>
 
 
 Skills: FLUTTER (DART) / REACT / JS / HTML / CSS / BLENDER 
