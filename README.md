@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Santosh Arron
 #### I am Full Stack Web & App Developer
 #### CEO OF EPIC PROGRAMMER
-![I am Full Stack Web & App Developer]
+[I am Full Stack Web & App Developer]
 
 <p align="center">
   <a href="https://nodejs.org/">
