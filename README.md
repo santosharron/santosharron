@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Santosh Arron
 #### I am Full Stack Web & App Developer
 #### CEO OF EPIC PROGRAMMER
-![I am Full Stack Web & App Developer](https://i.imgur.com/98pC7Th.png)
+![I am Full Stack Web & App Developer]
+p{
+(https://i.imgur.com/98pC7Th.png)}
 
 
 Skills: FLUTTER (DART) / REACT / JS / HTML / CSS / BLENDER 
