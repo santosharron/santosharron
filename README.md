@@ -23,15 +23,16 @@
 <br />
 
 
+Hi, I'm [Santosh Arron](https://santosh-arron.netlify.app//), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-- 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about Block Chain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/epicprogrammer).
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @ArronSantosh](https://twitter.com/ArronSantosh) , [Youtube - @epicprogrammer](https://youtube.com/epicprogrammer)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 1 hours listening songs everyday.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  
+- 💬 Ask me about anything, I am happy to help;
+- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
+- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
   
   **Languages and Tools:**  
 
