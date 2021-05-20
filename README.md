@@ -4,7 +4,7 @@
 GoogleDevExpert for Flutter, Firebase, Dart & G-Cloud. Entrepreneur & YouTuber. Founder of Epic Programmer.
 - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
 - 🌱 I’m currently learning more about BlockChain.
-- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/mtechviral).
+- 👯 I’m looking to collaborate on [Youtube](https://youtube.com/epicprogrammer).
 - 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter - @ArronSantosh](https://twitter.com/ArronSantosh) , [Youtube - @epicprogrammer](https://youtube.com/epicprogrammer)
