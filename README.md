@@ -56,7 +56,15 @@ JavaScript   5 Hours 40 mins         ██████████████�
 Flutter      2 Hours 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
 ```
 <!--END_SECTION:waka-->
-## Some of my Github Stats
+🚧 **My Todoist Stats:**
+<!-- TODO-IST:START -->
+🏆  27,837 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 825 tasks so far           
+⏳  Longest streak is 8 days
+<!-- TODO-IST:END -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=santosharron&show_icons=true&include_all_commits=true)](https://github.com/santosharron/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santosharron&layout=compact)](https://github.com/santosharron/github-readme-stats)
+
+📈 My GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=santosharron&show_icons=true&theme=gotham" alt="santosharron" />
