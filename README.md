@@ -7,6 +7,11 @@
   <img align="left" alt="Santosh Arron's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/santosh-arron/">
+  <img align="left" alt="Santosh Arron's LinkedIN" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/gmail.svg" />
+</a>
+
+
 [![Gmail Badge](https://img.shields.io/badge/-santosharron@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:santosharron@gmail.com)](mailto:santosharron@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-santosh_arron-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santosh-arron/)](https://www.linkedin.com/in/santosh-arron/) [![Github Badge](https://img.shields.io/badge/-Santosh_arron-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Santosh_arron/)](https://www.github.com/Santosh_arron/) [![Twitter Badge](https://img.shields.io/badge/-ArronSantosh-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ArronSantosh/)](https://www.twitter.com/ArronSantosh/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://santosh-arron.netlify.app//)](https://santosh-arron.netlify.app//) <p align='left'>Hello, I'm Santosh Arron! 👋
 - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
