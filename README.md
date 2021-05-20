@@ -11,13 +11,13 @@
   <img align="left" alt="Santosh Arron's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/gmail.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/santosh-arron/">
-  <img align="left" alt="Santosh Arron's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/instagram.svg" />
+<a href="https://www.instagram.com/santosh_arron/">
+  <img align="left" alt="Santosh Arron | Instagram" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/instagram.svg" />
 </a>
 
 
-<a href="https://www.linkedin.com/in/santosh-arron/">
-  <img align="left" alt="Santosh Arron's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
+<a href="https://santosh-arron.netlify.app//">
+  <img align="left" alt="Santosh Arron's Portfolio" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
 </a>
 
 
