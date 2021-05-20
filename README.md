@@ -20,6 +20,9 @@
   <img align="left" alt="Santosh Arron's Portfolio" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
+<br />
 
 
 
