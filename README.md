@@ -50,8 +50,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   40 mins         ███████████████████░░░░░░   76.63 % 
-JSON         11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
+JavaScript   5 Hours 40 mins         ███████████████████░░░░░░   76.63 % 
+Flutter      2 Hours 11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.11 % 
 ```
 <!--END_SECTION:waka-->
 ## Some of my Github Stats
