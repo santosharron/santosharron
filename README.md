@@ -7,7 +7,7 @@
   <img align="left" alt="Santosh Arron's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/santosh-arron/">
+<a href="mailto:santosharron@gmail.com">
   <img align="left" alt="Santosh Arron's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/gmail.svg" />
 </a>
 
