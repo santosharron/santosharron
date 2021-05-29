@@ -103,4 +103,4 @@ Flutter      2 Hours 11 mins         █████▓░░░░░░░░�
 
 <img align="left" alt="PNG" src="https://epicprogrammerassets.netlify.app/Assets/1521043927706-1024x1024.png?raw=true" width="200" height="200" />
 <img align="center" alt="PNG" src="https://epicprogrammerassets.netlify.app/Assets/data-badge-round.png?raw=true" width="200" height="200" />
-<img align="center-right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/badge.png" width="200" height="200" />
+<img align="center" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/badge.png" width="200" height="200" />
