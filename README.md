@@ -101,3 +101,4 @@ Flutter      2 Hours 11 mins         █████▓░░░░░░░░�
 </p>
 <h3>My Achievements</h3>
 <img align="left" alt="PNG" src="https://epicprogrammerassets.netlify.app/Assets/badge.png?raw=true" width="250" height="250" />
+<img align="center" alt="PNG" src="https://epicprogrammerassets.netlify.app/Assets/data-badge-round.png?raw=true" width="250" height="250" />
