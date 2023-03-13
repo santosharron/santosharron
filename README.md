@@ -7,16 +7,11 @@
   <img align="left" alt="Santosh Arron's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="mailto:santosharron@gmail.com">
+<a href="mailto:santosharron2906@gmail.com">
   <img align="left" alt="Santosh Arron's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/gmail.svg" />
 </a>
 
-<a href="https://www.instagram.com/santosh_arron/">
-  <img align="left" alt="Santosh Arron | Instagram" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/instagram.svg" />
-</a>
-
-
-<a href="https://santosharron.epicprogrammer.com/">
+<a href="https://santosharron.epicprogrammer.org/">
   <img align="left" alt="Santosh Arron's Portfolio" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
 </a>
 
@@ -33,8 +28,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" style="border-radius:50%" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@Santosh_arron](https://www.instagram.com/santosh_arron/);
-- 📝 [Resume](https://santosharron.epicprogrammer.com/)
+- 📫 How to reach me: [Contact Us](https://epicprogrammer.org/contact);
+- 📝 [Blog](https://epicprogrammer.org/)
   
 
 #### Top Technologies
