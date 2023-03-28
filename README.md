@@ -90,9 +90,6 @@ Flutter      2 Hours 11 mins         █████▓░░░░░░░░�
 
 
 
-## 🐦 Latest Tweet
-<p align="center"> <img src="https://gtce.itsvg.in/api?username=santosh_arron" alt="santosharron" />
-
 ### ✍️ Random Dev Quote
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="santosharron" />
 
