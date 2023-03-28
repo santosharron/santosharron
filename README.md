@@ -97,4 +97,3 @@ Flutter      2 Hours 11 mins         █████▓░░░░░░░░�
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="santosharron" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=santosharron&icon=0&color=0)](https://visitcount.itsvg.in)
