@@ -8,10 +8,6 @@
   <img align="left" alt="Santosh Arron's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="mailto:santosharron2906@gmail.com">
-  <img align="left" alt="Santosh Arron's Mail" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/gmail.svg" />
-</a>
-
 <a href="https://santosharron.epicprogrammer.org/">
   <img align="left" alt="Santosh Arron's Portfolio" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
 </a> -->
