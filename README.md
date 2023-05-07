@@ -4,7 +4,7 @@
   <img align="left" alt="Santosh Arron | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/santosh-arron/">
+<a href="https://www.linkedin.com/in/santoshvp/">
   <img align="left" alt="Santosh Arron's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
