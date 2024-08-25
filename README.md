@@ -84,6 +84,8 @@ Flutter      2 Hours 11 mins         █████▓░░░░░░░░�
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=santosharron&show_icons=true&theme=gotham" alt="santosharron" />
 
+![snake gif](https://github.com/santosharron/santosharron/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ### ✍️ Random Dev Quote
