@@ -15,16 +15,13 @@
 <br />
 
 
-Hi, I'm [Santosh Arron](https://santosharron.epicprogrammer.com/), a passionate self-taught Full Stack developer and a freelance software engineer from Chennai, Tamil Nadu. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. In addition, I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Santosh Arron, a passionate self-taught Full Stack developer and a freelance software engineer from Chennai, Tamil Nadu. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. In addition, I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happened through open-source.
 
 
   <img align="right" alt="GIF" src="https://epicprogrammerassets.netlify.app/Assets/code.gif?raw=true" width="500" height="320" style="border-radius:50%" />
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Contact Us](https://epicprogrammer.org/contact);
-- 📝 [Blog](https://epicprogrammer.org/)
   
 
 #### Top Technologies
