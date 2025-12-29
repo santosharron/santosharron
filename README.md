@@ -1,21 +1,4 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22px">
-<!-- 
-<a href="https://twitter.com/santosh_arron">
-  <img align="left" alt="Santosh Arron | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/santoshvp/">
-  <img align="left" alt="Santosh Arron's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-<a href="https://santosharron.epicprogrammer.org/">
-  <img align="left" alt="Santosh Arron's Portfolio" width="22px" src="https://epicprogrammerassets.netlify.app/Assets/globe-grid.svg" />
-</a> -->
-
-
-<a href="https://youtube.com/@epicprogrammer">
-  <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-</a>
 
 
 <a href="https://twitter.com/santosh_arron">
@@ -23,7 +6,7 @@
 </a>
 
 
-<a href="https://www.linkedin.com/in/santoshvp/">
+<a href="https://www.linkedin.com/in/santosharron/">
   <img align="left" alt="Epic Programmer | YouTube" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
